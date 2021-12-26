@@ -4,5 +4,4 @@ import "assets/scss/Style.scss";
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
-
 export default MyApp;
